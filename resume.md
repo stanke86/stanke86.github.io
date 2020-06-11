@@ -104,19 +104,17 @@ Technologies: C#, MS SQL Server, Dapper, Fluent Validation, WPF, TFS
 
 
 ### Languages
-C#, T-SQL, JavaScript, HTML, CSS, Less
+C#, T-SQL, JavaScript, TypeScript, Python, HTML, CSS, Less
 
 ### Frameworks
-ASP.NET Web API, ASP.NET MVC 5, AngularJS, .NET, ASP.NET, ASP.NET Web Forms, Entity, Entity 6, Angular
+ASP.NET Core Web API, ASP.NET MVC 5, Angular, AngularJS, .NET Core, ASP.NET, ASP.NET Web Forms, Entity Framework Core, Entity Framework 6
 
 ### Tools
-Visual Studio, SQL Management Studio, TFS, Git, TeamCity, Gulp.js
+Visual Studio,VS Code, SQL Management Studio, Azure DevOps, Docker, TFS, Git, TeamCity, Gulp.js
 
-### Libraries/APIs
-jQuery
 
 ### Paradigms
-Design Patterns, REST, Scrum, Continuous Integration (CI), Continuous Deployment
+Agile, Design Patterns, REST, Scrum, Continuous Integration (CI), Continuous Deployment
 
 ### Platforms
 Windows, Azure Functions
