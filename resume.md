@@ -7,18 +7,21 @@ permalink: /resume/
 ## Employment
 ---
 
-### Software Engineer
-#### [2016 - PRESENT] Zuehlke Engineering
-- Developed multiple SPA web applications using ASP.NET MVC and AngularJS, Entity, and Microsoft SQL Server.
-- Created portal for voting using Angular, Bootstrap, and Azure Functions and Storage.
+### Software Architect/Senior Software Engineer - Freelancer
+#### [2019-Present] ThinkCloud, Belgrade, Serbia
+
+### Lead Software Architect
+#### [2016 - 2019] Zühlke Engineering, Belgrade, Serbia
+- Responsible for design and implementation of multiple projects for different clients.
+- Communicating with clients in Switzerland, Germany and Austria with on-site visits. 
 - Participated in the recruitment process of engineers by conducting interviews and improving the recruitment process.
-- Worked in a distributed team with the role of leading a local team.
-- Supported onboarding and training of new development team members.
-- Technologies: C#, JS, AngularJS, ASP.NET MVC, ASP.NET Web API, Kendo UI, Entity 6, Azure Functions, Angular 2+, Bootstrap, TypeScript, MS SQL
+- Worked in a distributed teams with a role of leading local and remote teams.
+- Supported onboarding and training of new team members.
+- Technologies: C#, .Net Core, Angular, Dialogflow, ASP.NET Web API, Docker, Entity Framework Core, Azure Functions, Bootstrap, TypeScript, MS SQL, Azure IoT Hub
 
 
 ### Back-end Developer
-#### [2012 - 2016] Universal Telecom
+#### [2012 - 2016] Universal Telecom, Belgrade, Serbia
 - Created an in-house ORM.
 - Created a CRM for taking care of Universal Telecom customers.
 - Created a task management application.
@@ -28,6 +31,24 @@ permalink: /resume/
 
 ## Experience
 ---
+
+### IoT solution for smart hygiene devices (Architecture/Development)
+Project for company producing hygiene products like smart soap and towel dispensers and various other products. Project includes designing the scalable IoT solution that allows managing large number of smart hygiene devices through the Azure cloud. The solution allows device provisioning, reading telemetry for data analysis and preventive maintenance and for improving the sales of devices and fill-ups.
+The solution also includes web portal for company's sales departments and partners.
+
+Task: Building IoT solution for smart hygiene devices
+
+Technologies: C#, ASP.Net Core Web API, Azure service - Azure App Service, Azure Functions, Azure Table storage, Azure SQL, Azure DevOps,
+EF Core, Docker, Angular 
+
+### Hearing aid assistant (Architecture/Development)
+Project for one of the biggest companies producing hearing-aids. Hearing aid assistant is a chatbot application that allows a user to fine-tune its hearing aid by having a conversation with the chatbot. 
+The project started as a discovery and continued until MVP was released. The project included building the chatbot application using Xamarin, designing the chatbot using Google Dialogflow, design and implementation of the chatbot fulfillment functions using Azure Functions, Azure App Service and Dockerized machine learning module responsible for providing the correct tuning of the hearing aid based on the conversation.
+
+Task: Create hearing aid assistant
+
+Technologies: C#, Xamarin, Google Dialogflow, Azure Functions, Azure App Service, MSSQL, Docker, Python
+
 
 ### Event Management System for Major Sports Organization (Development)
 Project for a major sports organization used to organize big sports events. The solution consists of a large number of modules each solving a part of the process before and during an event. Some of the modules are participants and guest registration, traveling to and from event, transportation during an event, booking of accommodation on event, competition, protocol, etc. The application is designed as multiple SPAs with integration with multiple third-party services such as for flight and accommodation booking. Each SPA corresponds to one module in the application. 
