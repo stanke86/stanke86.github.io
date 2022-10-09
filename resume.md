@@ -9,8 +9,6 @@ permalink: /resume/
 
 ### Software Architect/Senior Software Engineer - Freelancer
 #### [2019-Present] ThinkCloud, Belgrade, Serbia
-<dl>
-<dd>
 
 #### [2020-2022] Varden.se, Stockholm, Sweden – Fullstack
 - Worked in a distributed scrum team with a role of a fullstack developer
@@ -23,9 +21,6 @@ permalink: /resume/
 - Responsible for design and implementation of multiple system components
 - Participated in the recruitment process
 - Technologies: C#, .Net Core, Blazor, Azure DevOps, Azure services
-
-</dd>
-</dl>
 
 ### Lead Software Architect
 #### [2016 - 2019] Zühlke Engineering, Belgrade, Serbia
