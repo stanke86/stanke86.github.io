@@ -10,6 +10,20 @@ permalink: /resume/
 ### Software Architect/Senior Software Engineer - Freelancer
 #### [2019-Present] ThinkCloud, Belgrade, Serbia
 
+### Senior Software Engineer
+#### [2020-2022] Varden.se, Stockholm, Sweden – Fullstack, contractor
+- Worked in a distributed scrum team with a role of fullstack developer
+- Responsible for design and implementation of multiple system components
+- Participated in the recruitment process
+- Technologies: C#, .Net Core, Andgular, Terraform, CircleCI, Python, AWS Services, ElasticSearch
+
+### Senior Software Engineer
+#### [2019-2020] SyncVet, Belgrade, Serbia – Fullstack, contractor
+- Worked in a distributed scrum team with a role of fullstack developer
+- Responsible for design and implementation of multiple system components
+- Participated in the recruitment process
+- Technologies: C#, .Net Core, Blazor, Azure DevOps, Azure services
+
 ### Lead Software Architect
 #### [2016 - 2019] Zühlke Engineering, Belgrade, Serbia
 - Responsible for design and implementation of multiple projects for different clients.
@@ -31,6 +45,17 @@ permalink: /resume/
 
 ## Experience
 ---
+
+### Varden.se - Directory of healthcare clinics in Sweden
+Project for Varden.se, Swedish startup with the mission to be the number one directory in Sweden. Project included building customer facing web application (directory), admin portal for managing the customers and the booking system, where users can book a treatment in one of the clinics.
+This is a distributed application with multiple services including two API applications, multiple single page applications, dozens of AWS lambdas, scraper solution and more. My role on the project was, as a member of scrum team, to implement various features in the system. Doing proof of concept and implementation. As a fullstack developer I had opportunity to work on all parts of the system including defining infrastructure, configuring pipelines, building API and working on Angular applications.
+
+Task: Building a healthcare directory for Swedish clinics
+
+Role: Fullstack Software Engineer
+
+Technologies: C#, .Net Core, Web API, AWS Lambdas, AWS services – ElasticSearch, RDS, S3, DynamoDB, ECS,
+Terraform, Python
 
 ### IoT solution for smart hygiene devices (Architecture/Development)
 Project for company producing hygiene products like smart soap and towel dispensers and various other products. Project includes designing the scalable IoT solution that allows managing large number of smart hygiene devices through the Azure cloud. The solution allows device provisioning, reading telemetry for data analysis and preventive maintenance and for improving the sales of devices and fill-ups.
