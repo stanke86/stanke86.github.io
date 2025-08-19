@@ -21,4 +21,4 @@ I'm passionate about clean code, architecture, distributed systems, problem solv
 
 ### Contact me at
 
-[stankomanster@gmail.com](mailto:stankomanster@gmail.com)
+me [at] stankovicmilos [dot] dev](mailto:me@stankovicmilos.dev)
