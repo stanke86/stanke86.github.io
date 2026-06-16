@@ -17,8 +17,9 @@ $blue:#268bd2;
 $blueGray:#709fbf;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$inter: "Inter", sans-serif;
+$helvetica: $inter;
+$helveticaNeue: $inter;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
